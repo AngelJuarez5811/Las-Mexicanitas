@@ -1,0 +1,17 @@
+{
+  "name": "las-mexicanitas",
+  "version": "1.0.0",
+  "description": "Pagina web oficial ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Angel Juarez",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "remixicon": "^3.2.0"
+  }
+}
